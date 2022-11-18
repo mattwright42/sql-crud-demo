@@ -1,1 +1,1 @@
-web: vendor/bin/heroku-php-apache2 crud.php
+web: vendor/bin/heroku-php-apache2
